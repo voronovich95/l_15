@@ -261,3 +261,8 @@ drwxrwxr-x 2 ubuntu ubuntu 4096 Feb  6 09:35 scrips
 -rw-r--r-- 1 ubuntu ubuntu    0 Jan 18 17:54 .sudo_as_admin_successful
 -rw------- 1 ubuntu ubuntu   52 Feb  6 09:32 .Xauthority
 ```
+first
+second
+third
+fourth
+fiveth
